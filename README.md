@@ -2,7 +2,7 @@
 
 ## Introduction @unplugged
 
-In this tutorial, you'll create a fun dodge game where you control a character that must avoid falling objects. If you get hit, you lose a life!
+Welcome to The LEAGUE's Game Making tutorial! You will create a fun dodge game where you control a character that must avoid falling objects. If you get hit, you lose a life!
 
 ## Step 1 - Set the background
 
